@@ -17,7 +17,6 @@ Includes a **Single Player mode** with a custom AI opponent and a local **Multip
 * **Custom Physics Engine:** Features AABB (Axis-Aligned Bounding Box) collision detection.
 * **Entity Management:** Handles 7 concurrent meteor obstacles using parallel array processing.
 * **Direct Hardware Sound:** Synthesizes sound effects by manipulating the Programmable Interval Timer (PIT 8253) and PC Speaker ports (`42h`, `61h`).
-* **AI Opponent:** Includes a deterministic AI with CPU speed regulation logic.
 
 ## 🎮 Controls
 
