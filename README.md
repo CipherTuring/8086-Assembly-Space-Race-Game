@@ -1,4 +1,3 @@
-
 # Space Race 8086 Assembly
 
 ![Language](https://img.shields.io/badge/language-Assembly%20x86-red) ![Platform](https://img.shields.io/badge/platform-DOSBox%20%7C%20MS--DOS-orange)
